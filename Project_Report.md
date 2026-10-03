@@ -275,6 +275,12 @@ This project successfully developed an advanced machine learning-based crop yiel
 # REFERENCES
 [1] Kaggle, "Crop Production in India Dataset," [Online]. Available: https://www.kaggle.com/datasets/abhinand05/crop-production-in-india.
 [2] Open-Meteo API, "Free Open-Source Weather API," [Online]. Available: https://open-meteo.com/.
+[3] F. Pedregosa et al., "Scikit-learn: Machine Learning in Python," Journal of Machine Learning Research, vol. 12, pp. 2825-2830, 2011.
+[4] Streamlit Inc., "Streamlit: The fastest way to build data apps in Python," [Online]. Available: https://streamlit.io/.
+[5] S. Ramírez, "FastAPI: A modern, fast (high-performance) web framework for building APIs with Python," [Online]. Available: https://fastapi.tiangolo.com/.
+[6] The pandas development team, "pandas-dev/pandas: Pandas," Zenodo, 2020. [Online]. Available: https://pandas.pydata.org/.
+[7] PyFPDF, "FPDF2: Simple PDF generation for Python," [Online]. Available: https://py-pdf.github.io/fpdf2/.
+[8] L. Breiman, "Random Forests," Machine Learning, vol. 45, no. 1, pp. 5-32, 2001.
 
 ---
 
